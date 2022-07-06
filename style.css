@@ -47,15 +47,24 @@ body{
 #amount-container{
     padding-left: 25%;
 }
-#amount-container h1{
+.divide-width{
     font-weight: 700;
     margin-left: 2%;
     font-size: 20px;
-}
-.divide-width{
     width: 10%;
     background-color: rgba(0, 0, 0, 0.068);
     padding: 30px 0px;
+    border-radius: 7px;
+}
+.divide-width-fillcolor{
+    font-weight: 700;
+    margin-left: 2%;
+    font-size: 20px;
+    width: 10%;
+    color: tomato;
+    background-color: rgba(255, 99, 71, 0.205);
+    padding: 30px 0px;
+    border: 2px solid tomato;
     border-radius: 7px;
 }
 #amount-option{
