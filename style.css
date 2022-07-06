@@ -1,0 +1,184 @@
+body{
+    margin: 0;
+    font-family: 'Titillium Web', sans-serif;
+}
+.flex-container{
+    display: flex;
+}
+.header-container{
+    background-image: url(images/donation14.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+}
+.center-item{
+    padding-top: 10%;
+}
+.center-item h1{
+    color: white;
+    text-align: center;
+    font-weight: 700;
+    font-size: 50px;
+}
+#white-color{
+    color: white;
+    text-align: center;
+    padding-bottom: 2%;
+}
+#link-button{
+    text-decoration: none;
+    color: white;
+    padding: 10px 40px;
+    background-image: linear-gradient(to right, gray, tomato) ;
+    font-weight: 700;
+    margin-left: 45%;
+    border-radius: 5px;
+}
+#donation-amount h1{
+    color: black;
+    font-weight: 700;
+    text-align: center;
+    font-size: 40px;
+}
+#donation-amount p{
+    text-align: center;
+}
+#amount-container{
+    padding-left: 25%;
+}
+#amount-container h1{
+    font-weight: 700;
+    margin-left: 2%;
+    font-size: 20px;
+}
+.divide-width{
+    width: 10%;
+    background-color: rgba(0, 0, 0, 0.068);
+    padding: 30px 0px;
+    border-radius: 7px;
+}
+#amount-option{
+    width: 50%;
+    text-align: center;
+    color: gray;
+    font-size: 20px;
+    border: none;
+    border-bottom: 2px solid gray;
+    margin-left: 25%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+#button-width{
+    text-decoration: none;
+    color: white;
+    padding: 10px 40px;
+    background-image: linear-gradient(to right, gray, tomato) ;
+    font-weight: 700;
+    margin-left: 44%;
+    border-radius: 5px;
+}
+.padding-width{
+    padding-left: 10%;
+    padding-top: 3%;
+}
+.one-third-width{
+    height: 360px;
+    padding-left: 2%;
+    padding-top: 3%;
+    width: 26%;
+    margin-left: 2%;
+    border-radius: 5px;
+}
+#color-food{
+    background-color: rgba(0, 255, 255, 0.089);
+}
+#color-shelter{
+    background-color: rgba(255, 228, 196, 0.507);
+}
+#color-edu{
+    background-color:rgba(95, 158, 160, 0.116)
+}
+.donate-item{
+    text-align: justify;
+    padding-right: 5%;
+    color: rgb(104, 99, 99);
+}
+#contribute-container{
+    width: 80%;
+    padding-left: 12%;
+    padding-top: 7%;
+}
+.half-width{
+    width: 50%;
+}
+.half-width h1{
+    font-size: 40px;
+}
+.half-width p{
+    text-align: justify;
+    color: rgb(104, 99, 99);
+}
+#align-button{
+    text-decoration: none;
+    color: white;
+    padding: 10px 40px;
+    background-image: linear-gradient(to right, gray, tomato) ;
+    font-weight: 700;
+    border-radius: 5px;
+}
+#half-width-image{
+    width: 60%;
+    height: 300px;
+    border-radius: 5px;
+    margin-left: 20%;
+    margin-top: 10%;
+}
+#update-container{
+    padding-top: 3%;
+}
+.donate-align{
+    text-align: center;
+    font-size: 50px;
+}
+.plan-details{
+    text-align: center;
+    color: rgb(104, 99, 99);
+}
+#email-container{
+    width: 60%;
+    height: 200px;
+    background-color: rgba(255, 99, 71, 0.096);
+    margin-left: 20%;
+}
+#input-type{
+    border: none;
+    margin-top: 10%;
+    margin-left: 30%;
+    padding: 12px 50px 12px 20px;
+    background-color: rgba(128, 128, 128, 0.274);
+}
+#align-mail-button{
+    margin-top: 10%;
+    border: none;
+    background-color: tomato;
+    padding: 12px 25px;
+    font-weight: 700;
+    color: white;
+    margin-left: -1%;
+}
+footer{
+    height: 150px;
+    background-color: rgb(3, 3, 41);
+    margin-top: 7%;
+}
+footer h2{
+    color: tomato;
+    text-align: center;
+    font-family: 'Kalam', cursive;
+    padding-top: 2%;
+}
+footer p{
+    color: white;
+    text-align: center;
+}
